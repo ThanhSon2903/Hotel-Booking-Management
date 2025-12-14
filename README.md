@@ -27,3 +27,4 @@ Built with Spring Boot (Backend), MySQL (Database), React.js (Frontend), AWS S3 
   + Upload room images to AWS S3
   + Real-time updates via WebSocket
   + User Authentication (Register / Login / Logout)
+  + Validation 

@@ -8,6 +8,7 @@ Built with Spring Boot (Backend), MySQL (Database), React.js (Frontend), AWS S3 
   + Java Spring Boot
   + Spring Data JPA / Hibernate
   + Spring WebSocket (real-time booking updates)
+  + Spring Security + JWT
   + MySQL (data persistence)
   + AWS S3 (store room images)
   + Payment API (PayPal integration)
